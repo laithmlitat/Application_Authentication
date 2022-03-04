@@ -95,3 +95,15 @@ input[type="button"]{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+/* enter code */
+.code-box{
+    width: 360px;
+    height: 250px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.re-code a{
+    color: #49c1a2;
+}
