@@ -107,3 +107,12 @@ input[type="button"]{
 .re-code a{
     color: #49c1a2;
 }
+/* new password */
+.pass-box{
+    width: 360px;
+    height: 320px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
