@@ -56,3 +56,28 @@ input[type="button"]{
 .para-1 a{
     color: #49c1a2;
 }
+/* login */
+.login-box{
+    width: 360px;
+    height: 415px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.png{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.png input{
+    margin: auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 2px;
+    width: 30px;
+    height: 30px;
+}
+.forget-pass a{
+    color: #49c1a2;
+}
